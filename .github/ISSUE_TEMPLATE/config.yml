@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: REVYTECH
+  - name: REVYTECH AI
+    url: https://revytechinc.ai
+    about: Company index and surfaces
+  - name: REVYTECH, Inc.
     url: https://revytechinc.com
-    about: Company website and contact
+    about: Enterprise company website and solutions
+  - name: CloudBSD
+    url: https://cloudbsd.ai
+    about: CloudBSD platform website

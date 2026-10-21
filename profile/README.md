@@ -4,64 +4,57 @@
 
 # REVYTECH
 
-### Enterprise Cloud Powered by FreeBSD.
+### Enterprise Cloud & Systems Engineering Powered by FreeBSD
 
-High-performance, secure, and scalable cloud infrastructure based on the unmatched reliability of CloudBSD.
+Hardened infrastructure, mission-critical consulting, and sovereign software built on the unmatched reliability of CloudBSD.
 
-[Website](https://revytechinc.com) · [CloudBSD](https://cloudbsd.org) · [info@revytechinc.com](mailto:info@revytechinc.com)
+[revytechinc.ai](https://revytechinc.ai) · [revytechinc.com](https://revytechinc.com) · [CloudBSD](https://cloudbsd.ai) · [info@revytechinc.com](mailto:info@revytechinc.com)
 
 </div>
 
 ---
 
-## About
+## Overview
 
-REVYTECH, Inc. was founded by Mark LaPointe, a veteran of the FreeBSD community and the driving force behind CloudBSD. The company builds hardened, scalable, mission-critical cloud infrastructure on FreeBSD.
+REVYTECH, Inc. was founded by Mark LaPointe, a veteran of the FreeBSD community and the architect behind CloudBSD. We deliver enterprise-grade cloud architecture, mission-critical consulting, and hardened virtualization platforms designed as an open replacement for legacy hypervisor clusters.
 
-The company is built on top of **[CloudBSD](https://cloudbsd.org)** — an open cloud platform for FreeBSD with a mature foundation that REVYTECH now brings to enterprises as managed infrastructure and consulting.
+Beyond infrastructure, REVYTECH engineers next-generation systems software and autonomous agent workflows that streamline how complex fleets are deployed, secured, and managed.
 
 ---
 
 ## What We Do
 
-### CloudBSD Integration
+### Enterprise CloudBSD Deployment
+Full-lifecycle deployment of CloudBSD as an AI-managed, sovereign hypervisor cluster. High-density FreeBSD Jails, high-performance virtualization, native container runtimes, and automated orchestration.
 
-Customized FreeBSD-based cloud environments optimized for stability, performance, and massive scalability.
+### Hardened Infrastructure & Security
+Zero-trust FreeBSD architectures, transparent packet filtering, ZFS data integrity fabrics, and hardware passthrough engineered for mission-critical enterprise workloads.
 
-### Security First
+### Autonomous Management Systems
+Putting intelligent, agentic systems in front of fleet infrastructure to automate health monitoring, operations, and self-healing diagnostics.
 
-Leveraging the advanced security features of FreeBSD to provide hardened infrastructure for your critical workloads.
-
-### Managed Services
-
-Expert management and consulting to ensure your FreeBSD infrastructure operates at peak efficiency.
-
----
-
-## Open Source
-
-- **[CloudBSD](https://cloudbsd.org)** — the open cloud platform for FreeBSD, and the foundation of everything REVYTECH ships.
-- **[freebsd-handbook-skills](https://github.com/revytechinc/freebsd-handbook-skills)** — tested, step-by-step skills for everything in the FreeBSD Handbook.
-- **[openproject-mcp](https://github.com/revytechinc/openproject-mcp)** — an MCP server for OpenProject.
+### Sovereign Software Engineering
+Developing high-performance, clean-room systems software and creative tooling designed to run on sovereign platforms.
 
 ---
 
-## Tech
+## Connected Ecosystem
 
-`FreeBSD` · `CloudBSD` · `ZFS` · `jails` · `OCI Containers` · `pf` 
+- **[revytechai](https://github.com/revytechai)** — REVYTECH AI operational catalogues and services ([revytechinc.ai](https://revytechinc.ai)).
+- **[cloudbsdorg](https://github.com/cloudbsdorg)** & **[cloudbsdai](https://github.com/cloudbsdai)** — The CloudBSD operating system, virtualization stack, and AI surfaces ([cloudbsd.ai](https://cloudbsd.ai) / [cloudbsd.org](https://cloudbsd.org)).
 
 ---
 
 ## Contact
 
-- 📧 **[info@revytechinc.com](mailto:info@revytechinc.com)**
-- 🌐 **[revytechinc.com](https://revytechinc.com)**
+- 🌐 **Websites:** [revytechinc.ai](https://revytechinc.ai) · [revytechinc.com](https://revytechinc.com)
+- 📧 **Inquiries:** [info@revytechinc.com](mailto:info@revytechinc.com)
 
 ---
 
 <div align="center">
 
-*Innovative infrastructure solutions based on the power of FreeBSD. Hardened, scalable, and mission-critical.*
+*Hardened, scalable, and mission-critical cloud infrastructure.*
 
 © 2026 REVYTECH, Inc.
 
